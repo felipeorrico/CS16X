@@ -1,0 +1,19 @@
+How to accomplish this assignment? (battleships)
+Rules: https://www.hasbro.com/common/instruct/Battleship.PDF
+search on the web for examples of display.
+Can be one or two player game! Let them choose!
+
+1- Use strings for input so you can use A-1 or B-3, C-9 up to J-9 for coordinates and check if the first one is letter and the second one is number and if its not more than 2 characters long.
+2- Use the functions from assignment 5 to transform strings to actual ints (how to do with more than one number? Create new string?). 
+3- Check for spaces 
+4- Check for invalid numbers (how?)
+5- Create display (how? Use recursion?)
+6- Create array of values that will randomly select in computer side the boat configuration
+7- How player will put boats on? (check for boats and distance from last input(save last input and check if its within 1 away))
+8- How to detect when a boat is sunk? (create boat arrays that contain location of the boat pieces, check for boat type and how many of its parts got destroyed?)
+
+
+Minesweeper: https://codereview.stackexchange.com/questions/141717/minesweeper-in-c
+
+battleships: https://gist.github.com/raanwilliams/882d54a24479684623317d1a950f98ac
+			 https://www.youtube.com/watch?v=0cZ5aXcU_oA

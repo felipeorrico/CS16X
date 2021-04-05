@@ -1,0 +1,19 @@
+Ensure:
+
+
+● If the user enters an invalid guess (i.e. not a letter), you should prompt
+them for input again.
+
+● Your user interface must provide clear instructions for the user as well
+as information about the current state of the game.
+
+● The word should be the only thing hardcoded in your program. Do not
+hardcode length or the number of attempts.
+
+
+IDEAS:
+
+- to check if string has number transofrm string to int and check for zero or different than 0.
+
+- create string with numbers and use that co compare with guess string to check if it contains numbers, if it does, prompt again, if does not, proceed.
+- use same idea above to check for !@#$%^&*- inside the word and display right away.
